@@ -1,0 +1,19 @@
+div[lang=tr] {
+
+    background: red;
+    color: white;
+
+}
+
+div[lang=fr]{
+    background: blue;
+    color: red;
+}
+
+
+div[lang=de] {
+
+    background: black;
+    color: red;
+    
+}

@@ -1,0 +1,13 @@
+a {
+
+    color: red;
+    transition: all .5s;
+
+}
+
+a:hover {
+
+    color: black;
+    text-decoration: none;
+
+}

@@ -1,0 +1,12 @@
+ul {
+
+    transition: all .5s ease-in;
+    
+}
+
+
+ul:target {
+
+    border: 1px solid red;
+    
+}
