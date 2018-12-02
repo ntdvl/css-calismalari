@@ -1,0 +1,11 @@
+input:read-only {
+
+    background-color: rgb(235, 235, 228);
+
+}
+
+input:read-write {
+
+    border: 1px solid red;
+    
+}
