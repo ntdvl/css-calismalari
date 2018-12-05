@@ -1,0 +1,12 @@
+div:first-of-type {
+
+    color: red;
+
+}
+
+div:last-of-type {
+
+    color: green;
+    font-weight: bold;
+
+}
