@@ -1,0 +1,5 @@
+ul li:only-of-type {
+
+    color: red;
+
+}

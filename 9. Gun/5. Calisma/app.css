@@ -1,0 +1,12 @@
+ul li:nth-of-type(2n+3) {
+
+    color: red;
+
+}
+
+
+ul p:nth-of-type(n+3) {
+
+    color: blue;
+
+}
