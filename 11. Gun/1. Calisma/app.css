@@ -1,0 +1,30 @@
+div[name="1"]{
+    background: rgba(255, 100, 100, 1);
+}
+div[name="2"]{
+    background: rgba(255, 100, 100, 0.1);
+}
+div[name="3"]{
+    background: rgba(255, 100, 100, 0.2);
+}
+div[name="4"]{
+    background: rgba(255, 100, 100, 0.3);
+}
+div[name="5"]{
+    background: rgba(255, 100, 100, 0.4);
+}
+div[name="6"]{
+    background: rgba(255, 100, 100, 0.5);
+}
+div[name="7"]{
+    background: rgba(255, 100, 100, 0.6);
+}
+div[name="8"]{
+    background: rgba(255, 100, 100, 0.7);
+}
+div[name="9"]{
+    background: rgba(255, 100, 100, 0.8);
+}
+div[name="10"]{
+    background: rgba(255, 100, 100, 0.9);
+}
